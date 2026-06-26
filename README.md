@@ -1,6 +1,6 @@
-# Real-Time Forensic Monitoring in Kubernetes
+# Real-Time Forensic Readiness in Kubernetes
 
-This project implements a real-time forensic monitoring system in Kubernetes using Apache Cassandra and a Flask-based workload generator. The main goal is to simulate a DDoS-like query flooding attack, observe system behavior, and capture forensic evidence before pod restart happens.
+This study implements a real-time forensic readiness framework in Kubernetes using Apache Cassandra and a Flask-based workload generator. The main goal is to simulate a DDoS-like query flooding attack, observe system behavior, and capture forensic evidence before pod restart happens.
 
 ---
 
